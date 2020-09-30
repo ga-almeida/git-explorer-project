@@ -27,6 +27,8 @@ GitHub Explorer / Repository
 <ul>
   <li style="list-style: none;">🟢 TypeScript</li>
   <li style="list-style: none;">🟢 ReactJs</li>
+  <li style="list-style: none;">🟢 HTML</li>
+  <li style="list-style: none;">🟢 CSS</li>
   <li style="list-style: none;">🟢 API GitHub</li>
 </ul>
 <br>
